@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning php<br>🎯 Aim: Being a life-long learner and keeping myself updated with the fast-pased tech growth<br>🎲 Fun fact: I forget my own code after 5 days of writing it HAHA!</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning php<br>🎯 Aim: Being a life-long learner and keeping myself updated with the fast-paced tech growth<br>🎲 Fun fact: I forget my own code after 5 days of writing it HAHA!</p>
 
 ###
 
