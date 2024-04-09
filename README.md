@@ -14,6 +14,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AryanK1511&theme=radical&show_icons=true" alt="GitHub Stats"><br />
+  <img src="https://streak-stats.demolab.com/?user=divyanshu-dugar&theme=radical" alt="GitHub Streak">
+</div>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
