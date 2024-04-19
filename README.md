@@ -1,4 +1,4 @@
-<h1 align="center">Hi! Welcome to my code playground</h1>
+<h1 align="center">Hi! Welcome to my coding playground</h1>
 
 ###
 
