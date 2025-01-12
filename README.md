@@ -1,8 +1,9 @@
-<h1 align="center">Hi! Welcome to my coding playground</h1>
+<h1 align="center">Hi! Welcome to my coding playground </h1>
+</h1>
 
 ###
 
-<p align="left">My name is Divyanshu Dugar and I'm currently a student at Seneca College pursuing Computer Programming and Analysis (CPA).</p>
+<p align="left">My name is Divyanshu Dugar and I'm currently a student at Seneca Polytechnic pursuing Computer Programming and Analysis (CPA).</p>
 
 ###
 
@@ -14,9 +15,7 @@
 
 ###
 
-<br/>
-  <h2 align="center">⚡ Current Stats ⚡</h2>
-<br>
+<h2 align="center">Current Stats</h2>
 
 ###
 
