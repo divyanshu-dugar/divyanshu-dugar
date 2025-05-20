@@ -16,7 +16,7 @@
 
 <p align="center">
   🔗 <a href="https://github.com/orgs/My-Portfolio-Websites/repositories" target="_blank">My-Portfolio-Websites</a><br>
-  🔗 <a [href="https://github.com/orgs/Programming-Languages-Playground/repositories" target="_blank">Programming-Languages-Playground</a>
+  🔗 <a href="https://github.com/orgs/Programming-Languages-Playground/repositories" target="_blank">Programming-Languages-Playground</a>
 </p>
 
 <h2 align="center">Current Stats</h2>
