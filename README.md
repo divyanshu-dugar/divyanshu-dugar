@@ -61,9 +61,9 @@ Life-long learner passionate about `development` `data analysis` `algorithms` & 
   
   ### Problem Lists
   [![Arrays](https://img.shields.io/badge/Arrays-5/5-blue)](https://leetcode.com/problem-list/o2ptiaxh/)
-  [![Linked Lists](https://img.shields.io/badge/Linked_Lists-45/80-green)](https://leetcode.com/problem-list/nknrhy3c/)
-  [![Trees](https://img.shields.io/badge/Trees-60/120-yellow)](https://leetcode.com/problem-list/nknrhy3c/)
-  
+  [![Stacks](https://img.shields.io/badge/Stacks-2/5-yellow)](https://leetcode.com/problem-list/nknrhy3c/)
+  [![Linked Lists](https://img.shields.io/badge/Linked_Lists-green)](https://leetcode.com/problem-list/nknrhy3c/)
+  [![Trees](https://img.shields.io/badge/Trees-yellow)](https://leetcode.com/problem-list/nknrhy3c/)
 </div>
 
 ## 🌐 Connect With Me
