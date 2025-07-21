@@ -79,9 +79,11 @@ Life-long learner passionate about `development` `data analysis` `algorithms` & 
 </div>
 
 <div align="center">
+  
   ![Visitor Count](https://komarev.com/ghpvc/?username=divyanshu-dugar&color=blue&style=flat-square)
 
   <p align="center">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding animation"/>
   </p>
+  
 </div>
