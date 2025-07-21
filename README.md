@@ -62,11 +62,6 @@ Life-long learner passionate about `development` `data analysis` `algorithms` & 
   [![Linked Lists](https://img.shields.io/badge/Linked_Lists-45/80-green)](https://leetcode.com/problem-list/nknrhy3c/)
   [![Trees](https://img.shields.io/badge/Trees-60/120-yellow)](https://leetcode.com/problem-list/nknrhy3c/)
   
-  ### Recent Activity
-  <!-- leetcode-stats-start -->
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/divyanshu-dugar?theme=dark&font=Karma&ext=activity)
-  <!-- leetcode-stats-end -->
-  
 </div>
 
 ## 🌐 Connect With Me
