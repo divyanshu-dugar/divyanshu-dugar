@@ -60,7 +60,7 @@ Life-long learner passionate about `development` `data analysis` `algorithms` & 
   ![LeetCode Stats](https://leetcard.jacoblin.cool/divyanshu-dugar?theme=dark&font=Karma&ext=contest)
   
   ### Problem Lists
-  [![Arrays](https://img.shields.io/badge/Arrays-100/150-blue)](https://leetcode.com/problem-list/nknrhy3c/)
+  [![Arrays](https://img.shields.io/badge/Arrays-5/5-blue)](https://leetcode.com/problem-list/o2ptiaxh/)
   [![Linked Lists](https://img.shields.io/badge/Linked_Lists-45/80-green)](https://leetcode.com/problem-list/nknrhy3c/)
   [![Trees](https://img.shields.io/badge/Trees-60/120-yellow)](https://leetcode.com/problem-list/nknrhy3c/)
   
