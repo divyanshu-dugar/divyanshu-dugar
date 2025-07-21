@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <a href="https://divyanshu-dugar-developer-portfolio.vercel.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Divyanshu+Dugar;MERN+Stack+Developer;Tech+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there!+%F0%9F%91%8B;I'm+Divyanshu+Dugar;MERN+Stack+Developer;Tech+Enthusiast;Open-Source+Contributor;Teacher;Content+Creator" alt="Typing SVG" />
   </a>
 </h1>
 
