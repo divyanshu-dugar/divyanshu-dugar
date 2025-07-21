@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Life-long learner passionate about `development`, `data analysis`, `algorithms`, & `system design`.
+Life-long learner passionate about `development` `data analysis` `algorithms` & `system design`.
 
 ## 🛠️ Tech Stack
 
