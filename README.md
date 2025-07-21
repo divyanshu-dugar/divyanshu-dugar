@@ -8,18 +8,7 @@
 
 ## 🚀 About Me
 
-```javascript
-const divyanshu = {
-  pronouns: "he" | "him",
-  code: ["C", "C++", "Java", "Python", "JavaScript"],
-  frameworks: ["React", "Node.js", "Express"],
-  tools: ["Git", "Docker", "VS Code", "Figma"],
-  databases: ["MongoDB", "MySQL"],
-  architecture: ["Microservices", "REST APIs"],
-  currentFocus: "Mastering MERN Stack & DSA",
-  funFact: "Creating bugs since 2017 and fixing them since 2018"
-};
-```
+Life-long learner passionate about `development`, `data analysis`, `algorithms`, & `system design`.
 
 ## 🛠️ Tech Stack
 
