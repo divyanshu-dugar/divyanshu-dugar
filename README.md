@@ -53,9 +53,11 @@ Life-long learner passionate about `development` `data analysis` `algorithms` & 
   
 </div>
 
-## 🔥 LeetCode Progress
+## 🔥 LeetCode Stats
 
 <div align="center">
+  
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/divyanshu-dugar?theme=dark&font=Karma&ext=contest)
   
   ### Problem Lists
   [![Arrays](https://img.shields.io/badge/Arrays-100/150-blue)](https://leetcode.com/problem-list/nknrhy3c/)
