@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+AI-powered+fintech+apps+%F0%9F%A4%96;MERN+Stack+%7C+AWS+%7C+RAG+%7C+LLMs+%F0%9F%9A%80;Computer+Programming+%40+Seneca+Polytechnic+%F0%9F%8E%93;Turning+ideas+into+real+products+%E2%9C%A8;1%25+wiser+every+single+day+%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://divyanshu-dugar-developer-portfolio.vercel.app/">
+  <a href="https://divyanshu-dugar.me">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/divyanshu-dugar/">
