@@ -52,10 +52,6 @@ const divyanshu = {
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=divyanshu-dugar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=667eea&text_color=FFFFFF" alt="GitHub Stats"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshu-dugar&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" alt="Top Languages"/>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=divyanshu-dugar&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=A78BFA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=667eea&dates=888888)](https://git.io/streak-stats)
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/divyanshu-dugar?theme=dark&font=Fira%20Code&ext=activity&border=0)](https://leetcode.com/u/divyanshu-dugar/)
