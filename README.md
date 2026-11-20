@@ -74,8 +74,4 @@ const divyanshu = {
 
 **Have an idea worth building?** Let's talk.
 
-<br/>
-
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,24&height=120&section=footer)](https://github.com/divyanshu-dugar)
-
 </div>
