@@ -26,7 +26,7 @@ const divyanshu = {
   education:  "Computer Programming & Analysis @ Seneca Polytechnic",
   focus:      ["Full-Stack", "AI / LLMs", "RAG Pipelines", "Fintech"],
   philosophy: "1% wiser every single day",
-  openTo:     ["Internships", "Open Source", "Collaborations"],
+  openTo:     ["Full-time opportunities", "Open Source", "Collaborations"],
 };
 ```
 
@@ -36,7 +36,7 @@ const divyanshu = {
 
 
 
-## 🛠️ Tech Stack
+## `touch tech-stack`
 
 <div align="center">
 
@@ -48,13 +48,19 @@ const divyanshu = {
 
 
 
-## 📊 GitHub Stats
+## `touch github-stats`
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=divyanshu-dugar&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=A78BFA&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A78BFA&sideLabels=667eea&dates=888888)](https://git.io/streak-stats)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/divyanshu-dugar?theme=dark&font=Fira%20Code&ext=activity&border=0)](https://leetcode.com/u/divyanshu-dugar/)
+</div>
+
+## `touch leetcode`
+
+<div align="center">
+  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/divyanshu-dugar?theme=dark&font=Fira%20Code&border=0)](https://leetcode.com/u/divyanshu-dugar/)
 
 </div>
 
