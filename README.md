@@ -1,6 +1,21 @@
-<div align="center">
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./assets/name-heatmap-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./assets/name-heatmap-light.svg"
+    />
+    <img
+      src="./assets/name-heatmap-dark.svg"
+      alt="Divyanshu Dugar | Full-Stack Developer | Educator | AI Builder | Lifelong Learner"
+      width="100%"
+    />
+  </picture>
+</p>
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,24&height=210&section=header&text=Divyanshu%20Dugar&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20CS%20Student&descSize=18&descAlignY=58&descAlign=50)](https://github.com/divyanshu-dugar)
 
 <p>
   <a href="https://divyanshu-dugar.me"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio"/></a>
